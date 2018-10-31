@@ -1,0 +1,466 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wave",
+				"wavelength_x"
+			],
+			[
+				"wav",
+				"wavelength_x"
+			],
+			[
+				"wa",
+				"wavelength_x"
+			],
+			[
+				"dat",
+				"date_format"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"da",
+				"date_format"
+			],
+			[
+				"image",
+				"image_param_lst"
+			],
+			[
+				"re",
+				"req_x"
+			],
+			[
+				"req",
+				"req_x"
+			],
+			[
+				"imag",
+				"image_param_lst"
+			],
+			[
+				"pre",
+				"prepare_x"
+			],
+			[
+				"even",
+				"event_type"
+			],
+			[
+				"j",
+				"jData"
+			],
+			[
+				"en",
+				"end_time"
+			],
+			[
+				"start",
+				"start_time"
+			],
+			[
+				"X_",
+				"X_init"
+			],
+			[
+				"al",
+				"alpha_opt"
+			],
+			[
+				"top",
+				"top_Y"
+			],
+			[
+				"v",
+				"values"
+			],
+			[
+				"te",
+				"team_data"
+			],
+			[
+				"ac",
+				"accuracy_before"
+			],
+			[
+				"bo",
+				"bottom_age"
+			],
+			[
+				"bot",
+				"bottom_age"
+			],
+			[
+				"pr",
+				"predicted_Y"
+			],
+			[
+				"team",
+				"team_dict"
+			],
+			[
+				"top_",
+				"top_Y"
+			],
+			[
+				"dr",
+				"draw_regression_line"
+			],
+			[
+				"co",
+				"column_stack"
+			],
+			[
+				"le",
+				"learning_rate"
+			],
+			[
+				"dra",
+				"draw_figure"
+			],
+			[
+				"tea",
+				"team_data"
+			],
+			[
+				"shu",
+				"shuffle_team_dict"
+			],
+			[
+				"bai",
+				"bias"
+			],
+			[
+				"mea",
+				"mean_x"
+			],
+			[
+				"mean",
+				"mean_x"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"tab",
+				"table_div"
+			],
+			[
+				"fn",
+				"find_all"
+			],
+			[
+				"wri",
+				"writerow"
+			],
+			[
+				"csv",
+				"csv_file"
+			],
+			[
+				"targ",
+				"target_page"
+			],
+			[
+				"tar",
+				"target_url"
+			],
+			[
+				"tag",
+				"target_page"
+			],
+			[
+				"crest",
+				"create_sites"
+			],
+			[
+				"mid",
+				"mid-1"
+			],
+			[
+				"la",
+				"\\lambda\tλ"
+			],
+			[
+				"in",
+				"inner_list"
+			],
+			[
+				"fi",
+				"final_list"
+			],
+			[
+				"eign",
+				"eigen_vectors_sort"
+			],
+			[
+				"ei",
+				"eigen_vectors_sort"
+			],
+			[
+				"eigen",
+				"eigen_values"
+			],
+			[
+				"ci",
+				"cov_matrix"
+			],
+			[
+				"new",
+				"new_list"
+			],
+			[
+				"int",
+				"int_list"
+			],
+			[
+				"xl",
+				"xlsx"
+			],
+			[
+				"ce",
+				"cell_content"
+			],
+			[
+				"cel",
+				"cell_content"
+			],
+			[
+				"cell",
+				"cell_content"
+			],
+			[
+				"row",
+				"row_idx"
+			],
+			[
+				"date",
+				"dateoffset"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"cen",
+				"center_format"
+			],
+			[
+				"work",
+				"worksheet"
+			],
+			[
+				"add",
+				"add_format"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"Package Control: Install Package",
+			"Package Control:Julia",
+			"julia",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/jags/My Stuff/GSU/Project/SDO-eventprediction/Flare_prediction.py",
+		"/media/jags/My Stuff/GSU/Project/SDO-eventprediction/Main_flare_prediction.py",
+		"/media/jags/My Stuff/GSU/Project/solarevents-prediction/Flare_Prediction.jl",
+		"/media/jags/My Stuff/GSU/Project/solarevents-prediction/Main_Flare_Prediction.jl",
+		"/media/jags/My Stuff/GSU/Project/SDO-eventprediction/Pipfile.lock",
+		"/home/jags/Downloads/hw3 (2).tex",
+		"/home/jags/Downloads/hw3 (3).tex",
+		"/home/jags/Downloads/hw3 (1).tex",
+		"/home/jags/Downloads/hw3 (4).tex",
+		"/media/jags/My Stuff/GSU/Optimization/newton_python/minf_exmp.py",
+		"/media/jags/My Stuff/GSU/Optimization/newton_python/minf.py",
+		"/media/jags/My Stuff/GSU/Optimization/newton_python/demo_newton.py",
+		"/media/jags/My Stuff/GSU/Optimization/newton_python/steepest_descent.py",
+		"/media/jags/My Stuff/GSU/ML/Assignment_4/scraping.py",
+		"/media/jags/My Stuff/GSU/ML/Assignment_4/pg1.py",
+		"/media/jags/My Stuff/GSU/ML/Assignment_4/pg2.py",
+		"/media/jags/My Stuff/GSU/Optimization/newton_python/venv/lib/python2.7/site-packages/dateutil/rrule.py",
+		"/media/jags/My Stuff/GSU/Code/django/src/myproject/myproject/urls.py",
+		"/media/jags/My Stuff/GSU/Code/django/src/myproject/custom_user/models.py",
+		"/media/jags/My Stuff/GSU/Code/django/src/myproject/siteuser/models.py",
+		"/media/jags/My Stuff/GSU/Code/django/src/myproject/myproject/settings.py",
+		"/media/jags/My Stuff/GSU/Code/django/src/myproject/siteuser/urls.py",
+		"/media/jags/My Stuff/GSU/Code/django/src/myproject/siteuser/views.py",
+		"/home/jags/Downloads/assignment2.py",
+		"/media/jags/My Stuff/GSU/Code/django/src/myproject/products/models.py",
+		"/media/jags/My Stuff/GSU/Code/django/src/myproject/myproject/views.py",
+		"/media/jags/My Stuff/GSU/Code/django/src/myproject/siteuser/admin.py",
+		"/media/jags/My Stuff/GSU/Code/django/src/myproject/siteuser/serializers.py",
+		"/media/jags/My Stuff/GSU/PDA/test.jl",
+		"/home/jags/Downloads/test.py",
+		"/media/jags/My Stuff/GSU/Code/censor.py",
+		"/media/jags/My Stuff/GSU/DL/Project/info.txt",
+		"/home/jags/Downloads/hw2.tex",
+		"/media/jags/My Stuff/GSU/Code/create_review_file.py",
+		"/media/jags/My Stuff/GSU/ML/Assignment_2/hw_2.py",
+		"/media/jags/My Stuff/GSU/Code/test.py",
+		"/media/jags/My Stuff/GSU/Code/comments.py",
+		"/media/jags/My Stuff/GSU/Code/read_excel.py",
+		"/home/jags/Downloads/hw1.tex",
+		"/home/jags/Downloads/hw1 (1).tex",
+		"/home/jags/Desktop/AUD-20150707-WA0009.txt",
+		"/home/jags/Desktop/to-do.txt"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
