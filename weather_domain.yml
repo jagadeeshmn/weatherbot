@@ -6,6 +6,7 @@ intents:
   - greet
   - goodbye
   - inform
+  - nothing
 
 entities:
   - location
@@ -13,15 +14,25 @@ entities:
 templates:
   utter_greet:
     - 'Hello! How can I help?'
+    - 'Hello! Howdy Buddy?'
+    - 'Hey! How can I assist you?'
+    - 'Hey! Whatsup??'
   utter_goodbye:
     - 'Nice talking to you.'
     - 'Bye'
+    - 'See you soon.'
+    - 'Bye! Have a great day!!'
+    - 'Dont go away :('
   utter_ask_location:
     - 'In what location?'
-
+    - 'Please tell me your location'
+  utter_nothing:
+    - 'Sorry, I did not understand'
+    - 'Please enter valid information'
 
 actions:
   - utter_greet
+  - utter_nothing
   - utter_goodbye
   - utter_ask_location
   - actions.ActionWeather

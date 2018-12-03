@@ -11,7 +11,7 @@ from rasa_core.policies.memoization import MemoizationPolicy
 if __name__ == '__main__':
 	logging.basicConfig(level='INFO')
 	
-	training_data_file = './data/stories.md'
+	training_data_file = 'stories.md'
 	model_path = './models/dialogue'
 	
 	agent = Agent('weather_domain.yml', policies = [MemoizationPolicy(), KerasPolicy()])

@@ -1,12 +1,12 @@
 {
   "action_fingerprints": {
+    "utter_goodbye": {
+      "slots": []
+    },
     "action_listen": {
       "slots": [
         "location"
       ]
-    },
-    "utter_goodbye": {
-      "slots": []
     },
     "action_weather": {
       "slots": [
@@ -17,6 +17,9 @@
       "slots": [
         "location"
       ]
+    },
+    "utter_greet": {
+      "slots": []
     }
   },
   "rasa_core": "0.8.2",

@@ -72,6 +72,16 @@
         "entities": []
       },
       {
+        "text": "what's the weather",
+        "intent": "inform",
+        "entities": []
+      },
+      {
+        "text": "whats the weather",
+        "intent": "inform",
+        "entities": []
+      },
+      {
         "text": "What's the weather in Atlanta at the moment?",
         "intent": "inform",
         "entities": [

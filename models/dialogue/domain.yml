@@ -1,11 +1,13 @@
 action_factory: null
 action_names:
 - utter_greet
+- utter_nothing
 - utter_goodbye
 - utter_ask_location
 - action_weather
 actions:
 - utter_greet
+- utter_nothing
 - utter_goodbye
 - utter_ask_location
 - actions.ActionWeather
@@ -17,6 +19,7 @@ intents:
 - greet
 - goodbye
 - inform
+- nothing
 slots:
   location:
     initial_value: null
@@ -24,9 +27,19 @@ slots:
 templates:
   utter_ask_location:
   - text: In what location?
+  - text: Please tell me your location
   utter_goodbye:
   - text: Nice talking to you.
   - text: Bye
+  - text: See you soon.
+  - text: Bye! Have a great day!!
+  - text: Dont go away :(
   utter_greet:
   - text: Hello! How can I help?
+  - text: Hello! Howdy Buddy?
+  - text: Hey! How can I assist you?
+  - text: Hey! Whatsup??
+  utter_nothing:
+  - text: Sorry, I did not understand
+  - text: Please enter valid information
 topics: []
